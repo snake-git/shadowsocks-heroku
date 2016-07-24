@@ -4,7 +4,7 @@
   "scheme": "ws",
   "local_port": 1080,
   "remote_port": 8088,
-  "password": "yeats531",
+  "password": "yeats53!",
   "timeout": 600,
   "method": "rc4-md5"
 }
